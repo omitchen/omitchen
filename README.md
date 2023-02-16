@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github - stats](https://github-readme-stats.vercel.app/api?username=omitchen&theme=dark&show_icons=true)![total - contribution](https://github-readme-streak-stats.herokuapp.com/?user=omitchen&theme=highcontrast)
 
 
